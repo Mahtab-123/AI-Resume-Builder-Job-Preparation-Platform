@@ -52,23 +52,9 @@ This project simulates a real-world SaaS product and demonstrates Full Stack Dev
 
 ## 📂 Folder Structure
 
-```
-backend/src
-├── config/
-├── controllers/
-├── middleware/
-├── models/
-├── routes/
-├── services/
-└── app.js
-
-frontend/src
-├── features/
-├── style/
-├── app.jsx
-├── app.route.jsx
-└── main.jsx
-```
+- 📁 [Backend](./Backend) – Contains the Node.js backend server  
+- 📁 [Frontend](./Frontend) – Contains the React frontend application  
+- 📄 [README.md](./README.md) – Detailed project documentation  
 
 ---
 
